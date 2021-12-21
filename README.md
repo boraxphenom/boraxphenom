@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phenomenone 
+- 👀 Junior Web Designer 
+- ✨ I’m currently learning react ... ✨
+- 💞️ I’m looking to collaborate on front end and some full stack projects!
+- 📫 Reach me at: <phenomenonedesign@gmail.com>
