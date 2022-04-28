@@ -2,4 +2,4 @@
 - 👀 Junior Web Designer 
 - ✨ I’m currently learning something new ... ✨
 - 💞️ I’m looking to collaborate with Frontend and Full Stack projects!
-- 📫 Reach me at: <phenomenonedesign@gmail.com>
+- 📫 Reach me at: <eeca@gmail.com>
