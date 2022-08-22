@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phenomenone 
-- 👀 Junior Web Designer 
+- 👀 SRE/Developer/Junior Web Designer 
 - ✨ I’m currently learning something new ... ✨
 - 💞️ I’m looking to collaborate with Frontend and Full Stack projects!
 - 📫 Reach me at: <eeca@outlook.com>
