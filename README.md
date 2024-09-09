@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @phenomenone 
-- 👀 SRE/Developer/Junior Web Designer 
+- 👋 Hi, I’m Eden / @phenomenone 
+- 👀 Web Designer/SRE/Developer/ 
 - ✨ I’m currently learning something new ... ✨
 - 💞️ I’m looking to collaborate with Frontend and Full Stack projects!
-- 📫 Reach me at: <eeca@outlook.com>
+- 📫 Reach me at: <ecastilloasport@gmail.com>
